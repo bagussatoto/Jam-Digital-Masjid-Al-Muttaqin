@@ -6,10 +6,10 @@
 
 <p>Aplikasi ini menggunakan algoritma perhitungan sholat dari perhitungan Jam Kementerian Agama Indonesia. Aplikasi ini dibuat untuk mengoptimalkan waktu sholat dari sebuah masjid. Aplikasi ini dibuat dengan menggunakan bahasa pemrograman PHP dan menggunakan library PHP yang dibutuhkan untuk menghitung waktu sholat. Aplikasi ini dibuat dengan menggunakan framework Codeigniter.</p>
 
-<img src="" height="300px" width="600px">
-<img src="" height="300px" width="600px">
-<img src="" height="300px" width="600px">
-<img src="" height="300px" width="600px">
+<img src="https://github.com/bagussatoto/Jam-Digital-Masjid-Al-Muttaqin.git/blob/1.0/assets/1.jpg" height="300px" width="600px">
+<img src="https://github.com/bagussatoto/Jam-Digital-Masjid-Al-Muttaqin.git/blob/1.0/assets/2.jpg" height="300px" width="600px">
+<img src="https://github.com/bagussatoto/Jam-Digital-Masjid-Al-Muttaqin.git/blob/1.0/assets/3.jpg" height="300px" width="600px">
+<img src="https://github.com/bagussatoto/Jam-Digital-Masjid-Al-Muttaqin.git/blob/1.0/assets/4.jpg" height="300px" width="600px">
 <br>
 
 ## 👦🏽 Siapa pembuat aplikasi ini?
